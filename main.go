@@ -12,6 +12,7 @@ import (
 	"github.com/aws/aws-lambda-go/lambda"
 )
 
+// Input は、入力された情報の構造体。
 type Input struct {
 	ArticleID string `json:"article_id"`
 	CommentID string `json:"comment_id"`
