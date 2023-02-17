@@ -4,7 +4,6 @@
         "datsukan",
         "joho",
         "godotenv",
-        "sendgrid",
-        ""
+        "sendgrid"
     ]
 }
